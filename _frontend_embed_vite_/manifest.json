@@ -1,0 +1,80 @@
+{
+  "../icons-subsetter/built/tabler-icons-frontendEmbed.css": {
+    "file": "assets/3iSoGi4ic-PfNRbUzp.css",
+    "src": "../icons-subsetter/built/tabler-icons-frontendEmbed.css"
+  },
+  "../icons-subsetter/built/tabler-icons-frontendEmbed.woff2": {
+    "file": "assets/3iSoGi4ic-DdavI1HB.woff2",
+    "src": "../icons-subsetter/built/tabler-icons-frontendEmbed.woff2"
+  },
+  "../icons-subsetter/built/tabler-icons.woff2": {
+    "file": "assets/3iSoGi4ic-CqiDyPoo.woff2",
+    "src": "../icons-subsetter/built/tabler-icons.woff2"
+  },
+  "_3iSoGi4ic-BxeXxkJv.js": {
+    "file": "scripts/3iSoGi4ic-BxeXxkJv.js",
+    "name": "vue"
+  },
+  "_3iSoGi4ic-CPesB5eK.js": {
+    "file": "scripts/3iSoGi4ic-CPesB5eK.js",
+    "name": "config"
+  },
+  "_3iSoGi4ic-D04gTiyu.js": {
+    "file": "scripts/3iSoGi4ic-D04gTiyu.js",
+    "name": "server-context",
+    "imports": [
+      "_3iSoGi4ic-CPesB5eK.js",
+      "_3iSoGi4ic-BxeXxkJv.js"
+    ]
+  },
+  "assets/dummy.png": {
+    "file": "assets/3iSoGi4ic-Cqq1W_WT.png",
+    "src": "assets/dummy.png"
+  },
+  "src/boot.ts": {
+    "file": "scripts/3iSoGi4ic-DRDLOV37.js",
+    "name": "entry",
+    "src": "src/boot.ts",
+    "isEntry": true,
+    "imports": [
+      "_3iSoGi4ic-BxeXxkJv.js",
+      "_3iSoGi4ic-D04gTiyu.js",
+      "_3iSoGi4ic-CPesB5eK.js",
+      "src/i18n.ts"
+    ],
+    "dynamicImports": [
+      "src/ui.vue"
+    ],
+    "css": [
+      "assets/3iSoGi4ic-jt75RWEl.css"
+    ]
+  },
+  "src/i18n.ts": {
+    "file": "scripts/3iSoGi4ic-DGxosOsi.js",
+    "name": "i18n",
+    "src": "src/i18n.ts",
+    "isEntry": true,
+    "imports": [
+      "_3iSoGi4ic-CPesB5eK.js",
+      "_3iSoGi4ic-BxeXxkJv.js"
+    ]
+  },
+  "src/ui.vue": {
+    "file": "scripts/3iSoGi4ic-BsdmdwE1.js",
+    "name": "ui",
+    "src": "src/ui.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_3iSoGi4ic-D04gTiyu.js",
+      "_3iSoGi4ic-BxeXxkJv.js",
+      "src/i18n.ts",
+      "_3iSoGi4ic-CPesB5eK.js"
+    ],
+    "css": [
+      "assets/3iSoGi4ic-Dhs21BEC.css"
+    ],
+    "assets": [
+      "assets/3iSoGi4ic-Cqq1W_WT.png"
+    ]
+  }
+}

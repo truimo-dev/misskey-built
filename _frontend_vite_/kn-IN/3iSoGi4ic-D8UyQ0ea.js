@@ -1,0 +1,1 @@
+import{b as t,l as a,i as n,p as o,x as l}from"./3iSoGi4ic-D0mTJ0Mu.js";import"./3iSoGi4ic-DV-GuiCp.js";const u=t({__name:"slot",setup(c){function e(){}return(s,r)=>(n(),a("div",null,[o("div",{class:"xcIlw",onClick:e},[l(s.$slots,"label")],2),o("div",null,[l(s.$slots,"default")]),o("div",{class:"xy15j"},[l(s.$slots,"caption")],2)]))}});export{u as F};

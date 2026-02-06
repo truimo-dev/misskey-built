@@ -1,0 +1,1 @@
+const s=(e,r=0)=>{if(e==null)return"N/A";if(e===0)return"0";const n=["","K","M","G","T","P","E","Z","Y","R","Q"],o=e<0;o&&(e=-e);const t=Math.floor(Math.log(e)/Math.log(1e3));return(o?"-":"")+(e/Math.pow(1e3,t)).toFixed(r).replace(/(\.[1-9]*)0+$/,"$1").replace(/\.$/,"")+(n[t]??`e+${t*3}`)};export{s as k};

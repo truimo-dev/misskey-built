@@ -1,0 +1,1 @@
+import"./3iSoGi4ic-DV-GuiCp.js";const t=window.document.getElementById("misskey_clientCtx"),r=t&&t.textContent?JSON.parse(t.textContent):null;function s(e,n){return e==null?!1:n in e&&e[n]!=null}export{s as a,r as s};

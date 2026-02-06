@@ -1,0 +1,1 @@
+var e="213273e5-7d20-d5f0-6e36-1b6a4f67115c",a="Mi Sushi Light",t="syuilo",n="light",c={accent:"#e36749",bg:"#f0eee9",fg:"#5f5f5f",fgOnWhite:"@accent",renote:"@accent",link:"@accent",mention:"@accent",hashtag:"#229e82"};const i={id:e,name:a,author:t,base:n,props:c};export{t as author,n as base,i as default,e as id,a as name,c as props};

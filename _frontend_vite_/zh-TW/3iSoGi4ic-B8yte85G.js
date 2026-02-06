@@ -1,0 +1,1 @@
+var a="66e7e5a9-cd43-42cd-837d-12f47841fa34",e="Mi Ice Dark",r="syuilo",c="dark",d={accent:"#47BFE8",fgOnWhite:"@accent",bg:"#212526"};const t={id:a,name:e,author:r,base:c,props:d};export{r as author,c as base,t as default,a as id,e as name,d as props};

@@ -1,0 +1,1 @@
+import{b as r,K as n,l as a,i as l,x as i,y as p}from"./3iSoGi4ic-D0mTJ0Mu.js";import"./3iSoGi4ic-DV-GuiCp.js";const x=r({__name:"split",props:{minWidth:{default:210}},setup(t){n(s=>({v07018f74:e}));const o=t;p("splited",!0);const e=o.minWidth+"px";return(s,c)=>(l(),a("div",{class:"xt66J"},[i(s.$slots,"default")],2))}});export{x as F};
